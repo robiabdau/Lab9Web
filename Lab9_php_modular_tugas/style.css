@@ -1,0 +1,23 @@
+body {
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.container {
+    display: block;
+    padding: 20px 20px 20px 20px;
+}
+label {
+
+    box-sizing: initial;
+    margin-right: 25px;
+}
+.input {
+    margin-top: 10px;
+    text-align: left;
+}
+.submit {
+    margin-top: 10px;
+}
+
+
